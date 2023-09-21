@@ -1,0 +1,13 @@
+Learned :
+
+Programming Languages: C, C#, PHP, SQL
+ASP.NET Frameworks: MVC, ASP.Net Core
+Javascript Framework: JQuery, etc.
+Web servers: IIS
+Operating System: Windows.
+Technology and Systems: Git,GitHub.
+RDBMS: MySQL, MSSQL
+Various: AJAX, HTML, JSON, BOOTSTRAP, CSS etc.
+API integration: Web API, Rest(Learning)
+IDE: Sublime Text, Visual Studio, VS-Code, etc.
+Cloud: Azure(Learning)
